@@ -78,7 +78,7 @@ public class MainActivity extends NavigationLiveo implements OnItemClickListener
                 .setOnClickUser(onClickPhoto)
                 .setOnPrepareOptionsMenu(onPrepare)
                 .setOnClickFooter(onClickFooter)
-                .removeHeader()
+             //   .removeHeader()
                 .build();
 
 
